@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"powrl/internal/pow"
+	"powrl/pow"
 
 	"github.com/gorilla/mux"
 )
